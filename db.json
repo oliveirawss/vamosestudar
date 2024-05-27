@@ -1,0 +1,8 @@
+{
+  "comoestudar": [
+    { "id": 1, "materia": "portugues", "conteudo": "Morfologia, Sintaxe, Semântica, Compreensão Textual, Coerência e Coesão Textual, "},
+    { "id": 2, "materia": "matematica", "conteudo": "Equações e Inequações, Funções, Matrizes e Determinantes, Geometria Analítica"},
+    { "id": 3, "materia": "geografia", "conteudo": "Geografia Física, Geografia Humana, Geopolítica"},
+    { "id": 4, "materia": "historia", "conteudo": "História do Brasil, História Geral, Revoluções (Francesa, Industrial)"}
+  ]
+}
